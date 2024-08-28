@@ -1,0 +1,4 @@
+voornaam,achternaam,locatie
+Kermit,de Kikker,Leiden
+Jan Peter,Balkenende,Heerhugowaard
+Freek,Galder de Flees,Haarlem 
